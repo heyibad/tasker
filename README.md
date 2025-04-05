@@ -1,4 +1,4 @@
-# Tasker: An Ai Agent to do Scheduling
+# Tasker: An Ai Agent for Scheduling
 
 ## Overview of the Plan:
 The goal is to create an AI agent that interacts with users to schedule tasks (e.g., posting on social media, sending emails) at specific times or based on events, using free or low-cost resources for rapid prototyping and scaling to a full product. The plan progresses through three phases:
