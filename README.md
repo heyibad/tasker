@@ -8,7 +8,7 @@ The goal is to create an AI agent that interacts with users to schedule tasks (e
 
 
 ## Initail Architecture For Prototyping
-![Agent Stack](https://github.com/user-attachments/assets/61b38eab-c958-4a30-a0f2-2e6f291a3f94)
+![Agent Stack](./arc.png)
 ### Stack:
 - OpenAI Agent SDK (Framework)
 - Chainlit (Ui/Basic Auth)
