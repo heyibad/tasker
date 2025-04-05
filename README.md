@@ -12,7 +12,7 @@ The goal is to create an AI agent that interacts with users to schedule tasks (e
 ### Stack:
 - OpenAI Agent SDK (Framework)
 - Chainlit (Ui/Basic Auth)
-- CornJobs (Schedulin)
+- CornJobs (Scheduling)
 - Gemini (LLM)
 - Mem0 (User Long Term Memory)
 - Huggingface spaces (Deployment)
@@ -22,5 +22,5 @@ The goal is to create an AI agent that interacts with users to schedule tasks (e
 ## How to Contribute?
 [Here is an Contributors Guide 📚👉🏻 ](./contribute.md)
 
-### Any Issues? 👉🏻:
+### Any Issues? 👉🏻
 **Emain** : ibad3572@gmail.com
