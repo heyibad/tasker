@@ -18,3 +18,9 @@ The goal is to create an AI agent that interacts with users to schedule tasks (e
 - Huggingface spaces (Deployment)
 
 [Click Here to See Complete Discussion & Initial plan  👉🏻 ](https://grok.com/share/bGVnYWN5_7cca720c-fcd0-4a1f-9f72-8e0cfd74319a)
+
+## How to Contribute?
+[Here is an Contributors Guide 📚👉🏻 ](./contribute.md)
+
+### Any Issues? 👉🏻:
+**Emain** : ibad3572@gmail.com
