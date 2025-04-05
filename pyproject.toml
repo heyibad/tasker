@@ -7,7 +7,12 @@ authors = [
     { name = "Muhammad Ibad", email = "ibad3572@gmail.com" }
 ]
 requires-python = ">=3.13"
-dependencies = []
+dependencies = [
+    "chainlit>=2.4.400",
+    "dotenv>=0.9.9",
+    "mem0ai>=0.1.81",
+    "openai-agents>=0.0.8",
+]
 
 [project.scripts]
 tasker = "tasker:main"
